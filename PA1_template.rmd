@@ -1,7 +1,6 @@
 ---
 title: "Reprodicible Research - Course Project 1"
 author: "Aman Bhagat"
-date: "3/20/2020"
 output: 
   html_document:
     keep_md: yes
